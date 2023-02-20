@@ -127,10 +127,8 @@ main {
 	}
 }
 @media (max-width:600px) {
-	body {
-		font-size: 15px;
-	}
 	main {
+		font-size: 15px;
 		.position-relative {
 			&:nth-child(1) {
 				background-size: 20%;
